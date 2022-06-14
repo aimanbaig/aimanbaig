@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aiman Baig
-- 👀 I’m interested in Software Developing and Data Engineering
-- 🌱 I’m currently learning ArcGIS with Python on Jupyter Notebook
-- 💞️ I’m looking to collaborate on Machine Learning or Web Devlelopment projects
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently working as a Systems Programmer at Service Tech Inc.
+- 💞️ I’m looking to collaborate on Application Development or Web Devlelopment projects
 - 📫 How to reach me: E-mail me at aimanbaig2911@hotmail.com
 
 <!---
